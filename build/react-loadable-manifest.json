@@ -1,0 +1,14 @@
+{
+  "..\\components\\HomeDemo9\\ClientReviews.js -> react-owl-carousel3": {
+    "id": "..\\components\\HomeDemo9\\ClientReviews.js -> react-owl-carousel3",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  },
+  "..\\components\\PricingPlan\\PricingPlanStyle2.js -> react-owl-carousel3": {
+    "id": "..\\components\\PricingPlan\\PricingPlanStyle2.js -> react-owl-carousel3",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  }
+}
